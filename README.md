@@ -1,6 +1,6 @@
 ## U.S. Postal Address Analyzer
 
-A command line application used to syntatically analyze and parse U.S. postal addresses.
+A command line application used to syntactically analyze and parse U.S. postal addresses.
 
 ## Installation and Setup Instructions
 
